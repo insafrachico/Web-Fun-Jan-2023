@@ -1,0 +1,33 @@
+
+.gras{
+
+       font-weight: bold;
+        color:white;
+    background-color: black;
+    font-family:cursive;
+    font-size:xx-large;
+}
+.stylee{
+    color:aqua;
+    font-weight:bold;
+    background-color: black;
+    font-family:cursive;
+    font-size:100%;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-weight:700;
+    background-color:blueviolet;
+    font-family:'Courier New', Courier, monospace
+    font-size:x-large;
+
+}
+h3
+{
+    text-align: right;
+    color:whitesmoke;
+    background-color:blue;
+    font-family:cursive;
+    font-size:large;
+}
