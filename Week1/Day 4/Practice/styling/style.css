@@ -1,33 +1,32 @@
-
-.gras{
-
-       font-weight: bold;
-        color:white;
-    background-color: black;
-    font-family:cursive;
-    font-size:xx-large;
+* {
+    margin:0;
+    padding:0;
 }
-.stylee{
-    color:aqua;
-    font-weight:bold;
-    background-color: black;
-    font-family:cursive;
-    font-size:100%;
+body {
+    background-color: #f3f3f3;
+    font-family: 'Roboto' , sans-serif;
 }
-h2{
-    color:white;
-    text-align: center;
-    font-weight:700;
-    background-color:blueviolet;
-    font-family:'Courier New', Courier, monospace
-    font-size:x-large;
-
+.user-flexbody {
+    width: 1000px;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-h3
-{
-    text-align: right;
-    color:whitesmoke;
-    background-color:blue;
-    font-family:cursive;
-    font-size:large;
+.user-card {
+    width:100%;
+    background-color:aqua;
+    border: 2px solid #999;
+    margin-bottom:20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    overflow :hidden;
+}
+.bor-der{
+    border : 5px solid gray;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-bottom: 300px;
+    padding: 20px ;
 }
